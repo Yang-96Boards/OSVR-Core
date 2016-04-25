@@ -10,10 +10,6 @@
 	path = json-schemas
 	url = https://github.com/OSVR/OSVR-JSON-Schemas.git
 	branch = master
-[submodule "vendor/discount-windows-bins"]
-	path = vendor/discount-windows-bins
-	url = https://github.com/OSVR/discount.git
-	branch = master
 [submodule "vendor/UIforETWbins"]
 	path = vendor/UIforETWbins
 	url = https://github.com/OSVR/UIforETWbins.git
